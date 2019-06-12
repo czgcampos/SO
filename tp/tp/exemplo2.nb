@@ -1,0 +1,44 @@
+/ Este comando lista os ficheiros:
+$ ls
+>>>
+1.txt
+enunciado-so-2017-18.pdf
+errors.txt
+exemplo1.nb
+exemplo2.nb
+exemplo3.nb
+exemplo4.nb
+exemplo5.nb
+exemplo6.nb
+makefile
+notebook
+notebook.c
+result.txt
+<<<
+/ Este comando mostra o conteudo da makefile
+$ cat makefile
+>>>
+notebook:	notebook.c
+			gcc -o notebook notebook.c
+
+execute:	notebook
+			./notebook *.nb
+
+install:	notebook
+			sudo cp notebook /usr/local/bin
+
+remove: 	notebook
+			rm notebook *.txt<<<
+/notebook *.nb
+/usr/local/bin
+/notebook *.nb
+/usr/local/bin
+/notebook *.nb
+/usr/local/bin
+/notebook *.nb
+/usr/local/bin
+/ Este comando conta o numero de palavras do enunciado
+$ wc -c enunciado-so-2017-18.pdf
+>>>
+74687 enunciado-so-2017-18.pdf
+<<<

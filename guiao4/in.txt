@@ -1,0 +1,15 @@
+total 180
+-rwxr-xr-x 1 campos campos  8520 mai 12 18:01 ex1
+-rw-rw-r-- 1 campos campos   433 mai 12 18:01 ex1.c
+-rwxr-xr-x 1 campos campos  8560 mai 12 18:03 ex2
+-rw-rw-r-- 1 campos campos   455 mai 12 18:03 ex2.c
+-rwxr-xr-x 1 campos campos  8472 mai 12 18:05 ex3
+-rw-rw-r-- 1 campos campos   403 mai 12 18:05 ex3.c
+-rw-rw-r-- 1 campos campos  1390 mai 28 13:23 ex4.c
+-rw-rw-r-- 1 campos campos 47722 mai 10 23:12 guiao-04.pdf
+-rw-rw-r-- 1 campos campos 52798 mai 10 23:13 Guião 4 - Slides.pdf
+-rw-r--r-- 1 campos campos     0 mai 28 13:23 in.txt
+-rw-r--r-- 1 campos campos   661 mai 13 22:06 leitura.txt
+-rw-rw-r-- 1 campos campos   169 mai 12 18:07 makefile
+-rwxr-xr-x 1 campos campos 12784 mai 28 13:23 redir
+-rw-r--r-- 1 campos campos    12 mai 13 22:07 saida.txt

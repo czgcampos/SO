@@ -1,0 +1,39 @@
+/ Este comando lista os ficheiros:
+$ ls
+>>>
+1.txt
+enunciado-so-2017-18.pdf
+errors.txt
+exemplo1.nb
+exemplo2.nb
+exemplo3.nb
+exemplo4.nb
+exemplo5.nb
+exemplo6.nb
+makefile
+notebook
+notebook.c
+result.txt
+<<<
+/ Faz sort:
+$| sort
+>>>
+1.txt
+enunciado-so-2017-18.pdf
+errors.txt
+exemplo1.nb
+exemplo2.nb
+exemplo3.nb
+exemplo4.nb
+exemplo5.nb
+exemplo6.nb
+makefile
+notebook
+notebook.c
+result.txt
+<<<
+/ E escolher o primeiro:
+$| head -1
+>>>
+1.txt
+<<<
